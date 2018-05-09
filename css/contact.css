@@ -1,0 +1,6 @@
+/* map css */
+.map-container {
+    background: url(../img/map-screenshot-1.jpg) no-repeat;
+    background-size: cover;
+    background-position: center;
+}
